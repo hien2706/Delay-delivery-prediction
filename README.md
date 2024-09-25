@@ -13,6 +13,9 @@
 
 * Achieved F1-scores of 73% (LightGBM) and 69% (CatBoost) on the test set.
 
+LightGBM confusion matrix:\
+Catboost confusion matrix:\
+![Catboost confusion](https://github.com/hien2706/Delay-delivery-prediction/blob/main/images/CatBoost_confusion_matrix.jpg)
 
 **Tech Stack:** Python (Pandas, NumPy, Scikit-learn), LightGBM, CatBoost
 
